@@ -1,0 +1,20 @@
+{
+    "name": "student-management",
+    "version": "1.0.0",
+    "description": "A simple student management application using Express and Mongoose.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "express": "^4.21.2",
+        "mongoose": "^5.13.23"
+    },
+    "engines": {
+        "node": ">=12.x"
+    },
+    "license": "MIT",
+    "keywords": [],
+    "author": ""
+}
